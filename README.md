@@ -1,4 +1,15 @@
 ### Hi there 👋
+### Welcome to my Github page
+
+##These are my current projects:
+
+<a href="https://github.com/WifiGuyWill/central-dashboard">Custom Dashboard for Aruba Central</a>
+
+<a href="https://github.com/WifiGuyWill/ArubaCentralSSO">Okta SSO integration with Aruba Central</a>
+
+<a href="https://github.com/WifiGuyWill/CX-Python-Scripts">Aruba CX switch automation scripts</a>
+
+More to come...
 
 <!--
 **WifiGuyWill/WifiGuyWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
