@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my Github page
 
-##These are my current projects:
+These are some of my current projects:
 
 <a href="https://github.com/WifiGuyWill/central-dashboard">Custom Dashboard for Aruba Central</a>
 
