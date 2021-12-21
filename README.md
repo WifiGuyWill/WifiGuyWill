@@ -3,6 +3,8 @@
 
 These are some of my current projects:
 
+<a href="https://github.com/WifiGuyWill/Geo-Auto-Provsioning-Service">Geo-IP Auto Provisioning Service for Aruba Central</a>
+
 <a href="https://github.com/WifiGuyWill/central-dashboard">Custom Dashboard for Aruba Central</a>
 
 <a href="https://github.com/WifiGuyWill/ArubaCentralSSO">Okta SSO integration with Aruba Central</a>
