@@ -11,6 +11,8 @@ These are some of my current projects:
 
 <a href="https://github.com/WifiGuyWill/CX-Python-Scripts">Aruba CX switch automation scripts</a>
 
+<a href="https://github.com/WifiGuyWill/Aruba-Central-CX-Provisioning-Service">Aruba Central CX Switch Provisioning Service</a>
+
 More to come...
 
 <!--
