@@ -9,7 +9,7 @@ These are some of my current projects:
 
 <a href="https://github.com/WifiGuyWill/Aruba-Central-AP-Port-Validation-Script">AP Uplink and Port Validation for Aruba Central</a>
 
-<a href="https://github.com/WifiGuyWill/Aruba-Central-Automated-Ping">Aruba AP Ping Test Automation for Aruba Central</a>
+<a href="https://github.com/WifiGuyWill/Aruba-Central-Automated-Ping">AP Ping Test Automation for Aruba Central</a>
 
 <a href="https://github.com/WifiGuyWill/central-dashboard">Custom Dashboard for Aruba Central</a>
 
