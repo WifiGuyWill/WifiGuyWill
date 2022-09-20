@@ -19,6 +19,8 @@ These are some of my current projects:
 
 <a href="https://github.com/WifiGuyWill/Aruba-Central-CX-Provisioning-Service">Aruba Central CX Switch Provisioning Service</a>
 
+<a href="https://github.com/WifiGuyWill/Aruba-AP-Dual-Uplink-ClearPass-Script>Dual Uplink AP Automation for ClearPass</a>
+
 More to come...
 
 <!--
